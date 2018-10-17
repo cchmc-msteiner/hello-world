@@ -1,2 +1,2 @@
 # hello-world
-Hi humans!  I like coffeescirpt
+Hi humans!  I like coffeescript!
